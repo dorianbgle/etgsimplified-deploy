@@ -4,19 +4,6 @@ const Tobacco = () => {
   return (
     <div>
 
-
-    <h1>Health benefits of stopping smoking for, </h1>
-    within 1 day
-    within 1 week
-
-    <h1>General Advice on helping patients quit. </h1>
-
-    <h1>Management of nicotine and smoking addiction, Flow diagram</h1>
-
-
-    <h1>Assessing Nicotine Dependence. </h1>
-
-
     <h1>Quiting Options</h1>
 
 FIRST LINE (Run through first line options before moving onto second line or trying vapes)
@@ -32,10 +19,6 @@ Nicotine vaping products are an alternative for use when first-line drug therapi
 Other factors affecting choice of drug therapy include:
 
 the patient’s previous experience of treatments
-cost—though all options are significantly cheaper than smoking
-convenience—some patients prefer taking once or twice daily tablets; others value the wider availability of combination NRT (available at most supermarkets, pharmacies and online)
-the patient’s preferred form of therapy (tablets [varenicline or bupropion], gum, lozenges, patches, inhalators, sprays)—for patients choosing NRT, see Table 22.7 for a comparison of the available formulations.
-Only NRT, varenicline and bupropion are registered by the Australian Therapeutic Goods Administration (TGA) for the management of tobacco smoking.
 
 
 
@@ -58,14 +41,6 @@ The minimum course of NRT is 12 weeks, but longer treatment is more effective;
 Link to PBS. 
 
 
-Precautions. (RadixUI pop ups based on age and weight. d a recent coronary event or skin graft. )
-
-E.g.
-Is the patient below 12?
-Is the patient below 45kg?
-Has the patient had a recent coronary event or skin graft? 
-Does the patient have Phenoketonuria?
-Does the patient have nicotine hypersensitivity? 
 
 <h1>More information on the 1st line management?</h1>
 Brief intro. 
@@ -139,12 +114,6 @@ NICOTINE VAPING.
 Short Intro .
 Options available.
 Complications. 
-
-
-IN SPECIFIC POPULATIONS. 
-Is the patient pregnant or breastfeeding?
-
-
 
 
 
